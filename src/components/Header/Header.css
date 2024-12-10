@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  position: sticky;
+  top:0;
+  z-index: 100;
+  background-color:white ;
+}
